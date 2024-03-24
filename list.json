@@ -1,0 +1,184 @@
+[
+    {
+        "channel-name": "tv9",
+        "category": "news",
+        "id": "II_m28Bm-iM",
+        "thumbnail": "tel-news-tv9.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "ABN",
+        "category": "news",
+        "id": "Q-nSNssz3p0",
+        "thumbnail": "tel-news-abn.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "NTV",
+        "category": "news",
+        "id": "L0RktSIM980",
+        "thumbnail": "tel-news-ntv.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "ETV Andhra",
+        "category": "news",
+        "id": "GI-8sFxRoyw",
+        "thumbnail": "tel-news-etv-andhrapradesh.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "ETV Telangana",
+        "category": "news",
+        "id": "tWsm6wkScBo",
+        "thumbnail": "tel-news-etv-telangana.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "V6",
+        "category": "news",
+        "id": "_xtceKvlVYQ",
+        "thumbnail": "tel-news-v6.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "10TV",
+        "category": "news",
+        "id": "byG7EGw9NPs",
+        "thumbnail": "tel-news-10tv.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "Sakshi",
+        "category": "news",
+        "id": "8McTsOqeueE",
+        "thumbnail": "tel-news-sakshi.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "TNews",
+        "category": "news",
+        "id": "JnuYyOJ0XLU",
+        "thumbnail": "tel-news-tnews.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "TV5",
+        "category": "news",
+        "id": "TH7D96FaD_s",
+        "thumbnail": "tel-news-tv5.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "hmtv",
+        "category": "news",
+        "id": "Li1ZA566CIo",
+        "thumbnail": "tel-news-hmtv.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "Mahaa news",
+        "category": "news",
+        "id": "kHKCbtdahX8",
+        "thumbnail": "tel-news-mahaa.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "Prime9",
+        "category": "news",
+        "id": "4PpS_RGUzfQ",
+        "thumbnail": "tel-news-prime9.png",
+        "type": "youtube"
+    },
+    {
+        "channel-name": "Hyderabad A",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/chunklist.m3u8",
+        "thumbnail": "tel-radio-hyderabad.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Kothagudem",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/chunklist.m3u8",
+        "thumbnail": "tel-radio-kothagudem.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Nizamabad",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/chunklist.m3u8",
+        "thumbnail": "tel-radio-nizamabad.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Warangal",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/chunklist.m3u8",
+        "thumbnail": "tel-radio-warangal.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Aadilabad",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/chunklist.m3u8",
+        "thumbnail": "tel-radio-adilabad.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Anantapur",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+        "thumbnail": "tel-radio-anantapur.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Kadapa",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/chunklist.m3u8",
+        "thumbnail": "tel-radio-kadapa.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Kurnool",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
+        "thumbnail": "tel-radio-kurnool.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Markapur",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
+        "thumbnail": "tel-radio-markapur.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Nellore",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+        "thumbnail": "tel-radio-nellore.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Tirupati",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+        "thumbnail": "tel-radio-tirupati.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Vijayawada",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+        "thumbnail": "tel-radio-vijayawada.png",
+        "type": "radio"
+    },
+    {
+        "channel-name": "Visakhapatnam",
+        "category": "radio",
+        "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8",
+        "thumbnail": "tel-radio-visakhapatnam.png",
+        "type": "radio"
+    }
+]
