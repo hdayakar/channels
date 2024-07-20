@@ -91,6 +91,13 @@
         "type": "youtube"
     },
     {
+        "channel-name": "ZeeTelugu",
+        "category": "news",
+        "id": "ffI9-IioJK8",
+        "thumbnail": "tel-news-zeenews.png",
+        "type": "youtube"
+    },
+    {
         "channel-name": "Hyderabad A",
         "category": "radio",
         "id": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/chunklist.m3u8",
