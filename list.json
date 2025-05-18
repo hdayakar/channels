@@ -21,23 +21,9 @@
         "type": "youtube"
     },
     {
-        "channel-name": "ETV Andhra",
-        "category": "news",
-        "id": "KvZIEgHfscU",
-        "thumbnail": "tel-news-etv-andhrapradesh.png",
-        "type": "youtube"
-    },
-    {
-        "channel-name": "ETV Telangana",
-        "category": "news",
-        "id": "MHVeUcd7vbs",
-        "thumbnail": "tel-news-etv-telangana.png",
-        "type": "youtube"
-    },
-    {
         "channel-name": "V6",
         "category": "news",
-        "id": "_xtceKvlVYQ",
+        "id": "nrb8P8shbDk",
         "thumbnail": "tel-news-v6.png",
         "type": "youtube"
     },
@@ -58,7 +44,7 @@
     {
         "channel-name": "TNews",
         "category": "news",
-        "id": "K92Ea-Fz5_A",
+        "id": "e_JVjPm96V8",
         "thumbnail": "tel-news-tnews.png",
         "type": "youtube"
     },
